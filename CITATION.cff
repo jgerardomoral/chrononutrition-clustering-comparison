@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "Data and Code: Traditional and Non-Traditional Clustering Techniques for Identifying Chrononutrition Patterns"
 message: "If you use this dataset or code, please cite it using the metadata from this file."
-type: software
+type: dataset
 authors:
   - family-names: Mora-Almanza
     given-names: José Gerardo
