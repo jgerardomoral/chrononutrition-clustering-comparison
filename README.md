@@ -1,7 +1,6 @@
 # Traditional and Non-Traditional Clustering Techniques for Identifying Chrononutrition Patterns
 
-<!-- DOI badge will be added after Zenodo-GitHub integration -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/XXXXX.svg)](https://doi.org/XXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17795547.svg)](https://doi.org/10.5281/zenodo.17795547)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
