@@ -1,0 +1,20 @@
+variable_name,label,type,unit,valid_range_min,valid_range_max,values,missing_count,description
+id,Participant ID,integer,NA,1,459,NA,0,Anonymous participant identifier (7 participants with no meal data excluded from original 466)
+age,Age,numeric,years,18,35,NA,0,Age in years (rounded to integers)
+sex,Sex,categorical,NA,NA,NA,"Female, Male",0,Biological sex
+academic_program,Academic Program,categorical,NA,NA,NA,"Nutrition, Medicine, Psychology, Other",0,Field of study at university
+semester_level,Semester Level,categorical,NA,NA,NA,"1-2_years, 3-5_years",0,Academic progress categorized
+employment,Employment Status,categorical,NA,NA,NA,"Yes, No",0,Currently employed
+marital_status,Marital Status,categorical,NA,NA,NA,"Single, In_relationship",0,Relationship status
+bmi,Body Mass Index,numeric,kg/m2,15,45,NA,0,Body Mass Index calculated from weight and height
+waist_circumference,Waist Circumference,numeric,cm,50,130,NA,0,Waist circumference measured at umbilicus level
+food_intake_quality,Food Intake Quality,categorical,NA,NA,NA,"Healthy, Needs_improvement, Unhealthy",0,Dietary quality category from Mini-ECCA v.2, a validated 14-item questionnaire for Mexican students. Uses discriminant analysis to classify dietary patterns based on adherence to dietary recommendations.
+chronotype,Chronotype,categorical,NA,NA,NA,"Morning, Intermediate, Evening",0,Circadian preference based on MEQ questionnaire
+breakfast_time,Breakfast Time,numeric,decimal_hours,5,12,NA,71,Habitual breakfast time in decimal hours
+lunch_time,Lunch Time,numeric,decimal_hours,11,18,NA,0,Habitual lunch time in decimal hours
+dinner_time,Dinner Time,numeric,decimal_hours,17,24,NA,0,Habitual dinner time in decimal hours
+eating_midpoint,Eating Midpoint,numeric,decimal_hours,10,20,NA,71,Midpoint of the eating window
+eating_window,Eating Window,numeric,hours,6,18,NA,71,Duration from first to last meal
+overnight_fasting,Overnight Fasting,numeric,hours,6,18,NA,71,Duration from last meal to first meal next day
+breakfast_lunch_interval,Breakfast-Lunch Interval,numeric,hours,1,10,NA,71,Time interval between breakfast and lunch
+lunch_dinner_interval,Lunch-Dinner Interval,numeric,hours,2,12,NA,0,Time interval between lunch and dinner

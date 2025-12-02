@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "Data and Code: Traditional and Non-Traditional Clustering Techniques for Identifying Chrononutrition Patterns"
+message: "If you use this dataset or code, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: Mora-Almanza
+    given-names: José Gerardo
+    email: jgerardomoral@gmail.com
+    orcid: "https://orcid.org/0000-0002-7042-033X"
+    affiliation: "Universidad de Guadalajara"
+  - family-names: Betancourt-Núñez
+    given-names: Alejandra
+    orcid: "https://orcid.org/0000-0001-6592-3031"
+    affiliation: "Universidad de Guadalajara"
+  - family-names: Nava-Amante
+    given-names: Pablo Alejandro
+    orcid: "https://orcid.org/0000-0002-7280-6172"
+    affiliation: "Universidad de Guadalajara"
+  - family-names: Bernal-Orozco
+    given-names: María Fernanda
+    orcid: "https://orcid.org/0000-0002-3894-175X"
+    affiliation: "Universidad de Guadalajara"
+  - family-names: Díaz-López
+    given-names: Andrés
+    orcid: "https://orcid.org/0000-0002-7500-5629"
+    affiliation: "Universitat Rovira i Virgili"
+  - family-names: Martínez
+    given-names: J. Alfredo
+    orcid: "https://orcid.org/0000-0001-5218-6941"
+    affiliation: "University of Navarra"
+  - family-names: Vizmanos
+    given-names: Barbara
+    orcid: "https://orcid.org/0000-0003-0680-0802"
+    affiliation: "Universidad de Guadalajara"
+repository-code: "https://github.com/jgerardomoral/chrononutrition-clustering"
+url: "https://github.com/jgerardomoral/chrononutrition-clustering"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2025-12-02"
+keywords:
+  - chrononutrition
+  - clustering
+  - meal timing
+  - k-means
+  - hierarchical clustering
+  - gaussian mixture models
+  - spectral clustering
+abstract: "Anonymized data (n=459) and reproducible R scripts for the paper 'Traditional and Non-Traditional Clustering Techniques for Identifying Chrononutrition Patterns'. Implements 4 clustering methods applied to meal timing data."

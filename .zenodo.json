@@ -1,0 +1,69 @@
+{
+  "title": "Data and Code: Traditional and Non-Traditional Clustering Techniques for Identifying Chrononutrition Patterns",
+  "upload_type": "dataset",
+  "publication_type": "article",
+  "creators": [
+    {
+      "name": "Mora-Almanza, José Gerardo",
+      "orcid": "0000-0002-7042-033X",
+      "affiliation": "Universidad de Guadalajara"
+    },
+    {
+      "name": "Betancourt-Núñez, Alejandra",
+      "orcid": "0000-0001-6592-3031",
+      "affiliation": "Universidad de Guadalajara"
+    },
+    {
+      "name": "Nava-Amante, Pablo Alejandro",
+      "orcid": "0000-0002-7280-6172",
+      "affiliation": "Universidad de Guadalajara"
+    },
+    {
+      "name": "Bernal-Orozco, María Fernanda",
+      "orcid": "0000-0002-3894-175X",
+      "affiliation": "Universidad de Guadalajara"
+    },
+    {
+      "name": "Díaz-López, Andrés",
+      "orcid": "0000-0002-7500-5629",
+      "affiliation": "Universitat Rovira i Virgili"
+    },
+    {
+      "name": "Martínez, J. Alfredo",
+      "orcid": "0000-0001-5218-6941",
+      "affiliation": "University of Navarra"
+    },
+    {
+      "name": "Vizmanos, Barbara",
+      "orcid": "0000-0003-0680-0802",
+      "affiliation": "Universidad de Guadalajara"
+    }
+  ],
+  "description": "Anonymized data (n=459) and reproducible R scripts for the paper 'Traditional and Non-Traditional Clustering Techniques for Identifying Chrononutrition Patterns'. This repository implements 4 clustering methods (K-means, Hierarchical Ward, Gaussian Mixture Models, and Spectral Clustering) applied to meal timing data from Mexican university students. The analysis identifies chrononutrition patterns based on breakfast, lunch, and dinner timing.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "chrononutrition",
+    "clustering",
+    "meal timing",
+    "k-means",
+    "hierarchical clustering",
+    "gaussian mixture models",
+    "spectral clustering",
+    "dietary patterns",
+    "circadian rhythm"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "DOI_PENDING",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "nutrition"
+    }
+  ],
+  "grants": [],
+  "notes": "This dataset accompanies a methodological paper comparing traditional and non-traditional clustering approaches for identifying chrononutrition patterns."
+}
