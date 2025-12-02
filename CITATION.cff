@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "Data and Code: Traditional and Non-Traditional Clustering Techniques for Identifying Chrononutrition Patterns"
 message: "If you use this dataset or code, please cite it using the metadata from this file."
-type: dataset
+type: software
 authors:
   - family-names: Mora-Almanza
     given-names: José Gerardo
@@ -32,8 +32,8 @@ authors:
     given-names: Barbara
     orcid: "https://orcid.org/0000-0003-0680-0802"
     affiliation: "Universidad de Guadalajara"
-repository-code: "https://github.com/jgerardomoral/chrononutrition-clustering"
-url: "https://github.com/jgerardomoral/chrononutrition-clustering"
+repository-code: "https://github.com/jgerardomoral/chrononutrition-clustering-comparison"
+url: "https://github.com/jgerardomoral/chrononutrition-clustering-comparison"
 license: CC-BY-4.0
 version: "1.0.0"
 date-released: "2025-12-02"

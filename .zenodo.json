@@ -1,7 +1,6 @@
 {
   "title": "Data and Code: Traditional and Non-Traditional Clustering Techniques for Identifying Chrononutrition Patterns",
-  "upload_type": "dataset",
-  "publication_type": "article",
+  "upload_type": "software",
   "creators": [
     {
       "name": "Mora-Almanza, José Gerardo",
@@ -52,16 +51,9 @@
     "dietary patterns",
     "circadian rhythm"
   ],
-  "related_identifiers": [
-    {
-      "identifier": "DOI_PENDING",
-      "relation": "isSupplementTo",
-      "resource_type": "publication-article"
-    }
-  ],
   "communities": [
     {
-      "identifier": "nutrition"
+      "identifier": "udgopendata"
     }
   ],
   "grants": [],
